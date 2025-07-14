@@ -1,7 +1,7 @@
 # Smooth Normal Transfer Tool for Maya
 
 **Author:** Lefi Shan (Leficious)  
-**Date:** March 10, 2024  
+**Date:** July 13, 2025  
 **Version:** 1.1  
 **Compatible with:** Autodesk Maya (tested in 2024+)
 
