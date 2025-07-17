@@ -25,12 +25,19 @@ The Smooth Normal Transfer Tool is a Python script for Autodesk Maya that transf
 
 ---
 
-## Installation
+## Installation Automatic
+
+1. Make sure the install script is in the same location as the main script.
+2. Drag and drop the install file in your Maya viewport.
+3. The tool will launch automatically. A shelf button will also be created.
+
+## Installation Manual
 
 1. Download or copy the script file.
 2. In Maya, open the **Script Editor** and paste the script into a Python tab.
-3. Execute the script.
-4. The tool will launch automatically. You can also run `smart_launch_normal_tool()` from the script anytime.
+3. (Optional) Add the script to a shelf button.
+4. Execute the script.
+5. The tool will launch automatically. You can also run `smart_launch_normal_tool()` from the script anytime.
 
 ---
 
