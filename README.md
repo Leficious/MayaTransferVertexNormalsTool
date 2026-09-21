@@ -1,3 +1,5 @@
+This project has been ported to https://github.com/Leficious/MayaStylizedNormalsToolkit. The new version features more extensive features and cleaner UI.
+
 # Smooth Normal Transfer Tool for Maya
 
 **Author:** Lefi Shan (Leficious)  
